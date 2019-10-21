@@ -21,7 +21,7 @@ In this stage, I built the core experience of the movies app.
 ## Why this Project?
 To become an Android developer, you must know how to bring particular mobile experiences to life. Specifically, you need to know how to build clean and compelling user interfaces (UIs), fetch data from network services, and optimize the experience for various mobile devices. I honed these fundamental skills in this project. This app will communicate with the Internet and provide a responsive and delightful user experience.
 
-## What did I Learn After Stage 1?
+## Technical Concepts learnt in this project
 - fetch data from the Internet with theMovieDB API.
 - use adapters and custom list layouts to populate list views.
 - incorporate libraries to simplify the amount of code you need to write 
