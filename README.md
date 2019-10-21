@@ -26,3 +26,6 @@ To become an Android developer, you must know how to bring particular mobile exp
 - fetch data from the Internet with theMovieDB API.
 - use adapters and custom list layouts to populate list views.
 - incorporate libraries to simplify the amount of code you need to write 
+
+## Screenshots
+![screenshot](https://user-images.githubusercontent.com/38955290/67230750-7cf4ad80-f403-11e9-9dce-0d725d29379d.png)
