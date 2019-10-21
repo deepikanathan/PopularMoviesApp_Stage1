@@ -1,7 +1,8 @@
 # PopularMoviesApp_Stage1
 
 ## Project Overview
-**PopularMoviesApp_Stage1** allows users to discover the most popular movies playing.
+**PopularMoviesApp_Stage1** 
+This app is developed as part of a graducation requirement for Android Developer Nanodegree from Udacity. It allows users to discover the most popular movies playing.
 
 ## Project Overview
 Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. This app allows users to discover the most popular movies playing. The development of this app is split in two stages. First, let's talk about stage 1.
