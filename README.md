@@ -29,3 +29,7 @@ To become an Android developer, you must know how to bring particular mobile exp
 
 ## Screenshots
 ![screenshot](https://user-images.githubusercontent.com/38955290/67230750-7cf4ad80-f403-11e9-9dce-0d725d29379d.png)
+
+![screenshot](https://user-images.githubusercontent.com/38955290/67234207-56864080-f40a-11e9-9be3-512639b71930.png)
+
+![screenshot](https://user-images.githubusercontent.com/38955290/67234213-5ab25e00-f40a-11e9-8aa7-ac37d8a09380.png)
