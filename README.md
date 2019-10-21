@@ -1,7 +1,6 @@
 # PopularMoviesApp_Stage1
 
 ## Project Overview
-**PopularMoviesApp_Stage1** 
 This app is developed as part of a graducation requirement for Android Developer Nanodegree from Udacity. It allows users to discover the most popular movies playing.
 
 ## Project Overview
