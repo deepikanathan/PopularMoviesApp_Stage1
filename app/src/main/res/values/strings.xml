@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">Movies could not be loaded. Click Refresh to try again.</string>
+    <string name="refresh_menu_item">Refresh</string>
+    <string name="original_title">Original Title</string>
+    <string name="synopsis_overview">Synopsis/Overview</string>
+    <string name="user_rating">User Rating: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="sort_by_popularity">movie/popular</string>
+    <string name="sort_by_rating">top_rated</string>
+    <string name="tmdb_api_key">f700b19d1af0889265b81cb218235275</string>
+    <string name="value_not_found">Unknown</string>
+    <string name="cannot_load_movie_data">Cannot load Movie data</string>
+
+    <string name="base_url">https://image.tmdb.org/t/p/w185</string>
+    <string name="popular_tmdb_url">http://api.themoviedb.org/3/movie/popular?</string>
+    <string name="top_rated_tmdb_url">http://api.themoviedb.org/3/movie/top_rated?</string>
+
+    <string name="sort_type_key_shared_pref">SORT_TYPE</string>
+    <string name="sort_by_most_popular">SORT BY POPULARITY</string>
+    <string name="sort_by_highest_rating">SORT BY RATING</string>
+
+    <!--Below values got from "https://developers.themoviedb.org/3/discover/movie-discover"-->
+    <string name="sort_by_most_popular_api">popularity</string>
+    <string name="sort_by_highest_rating_api">vote_average</string>
+
+    <!--pass to the Intent-->
+    <string name="movie_intent_data">MOVIE_PARCEL</string>
+</resources>
